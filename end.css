@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(114, 172, 145);
+    background-image: url('./images/end.jpg');
+    background-size: 100%;
+    object-fit: fill;
+
+    
+  }
+
+
+.topbar{
+    background: #1D4350;  
+background: -webkit-linear-gradient(to left, #A43931, #1D4350);  
+background: linear-gradient(to left, #A43931, #1D4350); 
+
+}
+.topbar p{
+    color: white;
+    margin-left: 20px;
+    font-family: 'Freckle Face', cursive;
+}
+
+.container{
+    margin-top:180px;
+}
+
+.container h1{
+    text-align: center;
+    
+}
+
+.container form{
+    margin-left: 470px;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container a{
+    margin-left: 510px;
+    margin-top: 9px;
+    
+}

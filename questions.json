@@ -1,0 +1,83 @@
+[
+    {
+      "question": "What will happen if reverse() and join() methods are used simultaneously?",
+      "choice1": "Reverses and stores in the same array", 
+      "choice2": "Reverses and concatenates the elements of the array",
+      "choice3": "Reverses",
+      "choice4": "All of the mentioned",
+      "answer": 1
+    },
+    {
+        "question": "What can be used for calling a JavaScript Code?",
+        "choice1": "RMI", 
+        "choice2": "Triggering Event",
+        "choice3": "Preprocessor",
+        "choice4": "Function/Method",
+        "answer": 4
+    },
+    {
+        "question": "Which of the following is not considered as an error in JavaScript?",
+        "choice1": "Syntax error", 
+        "choice2": "Missing of semicolons",
+        "choice3": "Division by zero",
+        "choice4": "Missing of Bracket",
+        "answer": 3 
+    },
+    {
+        "question": "What is the basic purpose of the toLocaleString()?",
+        "choice1": "return a localised object representation", 
+        "choice2": "return a parsed string",
+        "choice3": "return a local time in the string format",
+        "choice4": "return a localized string representation of the object",
+        "answer": 4
+    },
+    {
+        "question": "The pop() method of the array does which of the following task?",
+        "choice1": "decrements the total length by 1", 
+        "choice2": "increments the total length by 1",
+        "choice3": "prints the first element but no effect on the length",
+        "choice4": "updates the element",
+        "answer": 1
+    },
+    {
+        "question": "Do functions in JavaScript necessarily return a value?",
+        "choice1": "It is mandatory", 
+        "choice2": "Not necessary",
+        "choice3": "Few functions return values by default",
+        "choice4": "Some functions do not return any value",
+        "answer": 3
+    },
+    {
+        "question": "What does the location property represent?",
+        "choice1": "Current DOM object", 
+        "choice2": "Current URL",
+        "choice3": "Both DOM object and URL",
+        "choice4": "Document",
+        "answer": 2
+    },
+    {
+        "question": "What is the function used to extract arguments from the search property of a URL?",
+        "choice1": "urlArgs()", 
+        "choice2": "url()",
+        "choice3": "hash()",
+        "choice4": "geturl()",
+        "answer": 1 
+    },
+    {
+        "question": "Which looping statement allows XML tags to appear in JavaScript programs and adds API for operating on XML data?",
+        "choice1": "for loop", 
+        "choice2": "while loop",
+        "choice3": "for/each loop",
+        "choice4": "do while loop",
+        "answer": 3
+    },
+    {
+        "question": "Which method of the iterable object returns an iterator object for the collection?",
+        "choice1": "iterator()", 
+        "choice2": "_iterator_()",
+        "choice3": "_iteration_()",
+        "choice4": " _return_iterator_()",
+        "answer": 2
+    }
+  ]
+  
